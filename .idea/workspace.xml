@@ -5,17 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96861a2e-86db-45b0-8f92-c809a80ca1b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap1/Bai01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap1/Bai02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap1/Bai03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap2/Bai02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap2/Bai03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap2/Bai04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap2/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap3/Bai01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap3/Bai02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap3/Bai03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap4/Bai02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap4/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap5/Bai01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap6/Bai02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap6/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap6/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,23 +44,115 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2fr3V18K9C2OcuTqiSQjmNZtDO0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bai01.executor": "Run",
+    "Application.Bai02.executor": "Run",
+    "Application.Bai03.executor": "Run",
+    "Application.Bai04.executor": "Run",
+    "Application.Bai1.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.org.example.lap3.Bai02.executor": "Run",
+    "Application.org.example.lap4.Bai02.executor": "Run",
+    "Application.org.example.lap5.Bai01.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Application.Bai02">
+    <configuration name="Bai02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lap6.Bai02" />
+      <module name="LearnJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lap6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lap3.Bai03" />
+      <module name="LearnJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lap3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lap6.Bai1" />
+      <module name="LearnJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lap6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lap4.Bai02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lap4.Bai02" />
+      <module name="LearnJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lap4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lap5.Bai01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lap5.Bai01" />
+      <module name="LearnJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lap5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bai02" />
+        <item itemvalue="Application.Bai1" />
+        <item itemvalue="Application.org.example.lap5.Bai01" />
+        <item itemvalue="Application.org.example.lap4.Bai02" />
+        <item itemvalue="Application.Bai03" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,7 +168,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714545390110</updated>
-      <workItem from="1714545391152" duration="1000" />
+      <workItem from="1714545391152" duration="16425000" />
     </task>
     <servers />
   </component>
