@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96861a2e-86db-45b0-8f92-c809a80ca1b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap7/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap7/SinhVienCoKhi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap7/SinhVienIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap8/IPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap8/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lap9/SinhVien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +51,8 @@
     "Application.org.example.lap3.Bai02.executor": "Run",
     "Application.org.example.lap4.Bai02.executor": "Run",
     "Application.org.example.lap5.Bai01.executor": "Run",
+    "Application.org.example.lap8.Main.executor": "Run",
+    "Application.org.example.lap9.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -63,7 +68,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.org.example.lap9.Main">
     <configuration name="Bai02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.lap6.Bai02" />
       <module name="LearnJavaCore" />
@@ -103,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.lap4.Bai02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lap4.Bai02" />
+    <configuration name="org.example.lap8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lap8.Main" />
       <module name="LearnJavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lap4.*" />
+          <option name="PATTERN" value="org.example.lap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.lap5.Bai01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lap5.Bai01" />
+    <configuration name="org.example.lap9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lap9.Main" />
       <module name="LearnJavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lap5.*" />
+          <option name="PATTERN" value="org.example.lap9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,18 +136,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.lap9.Main" />
+        <item itemvalue="Application.org.example.lap8.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Bai02" />
         <item itemvalue="Application.Bai1" />
-        <item itemvalue="Application.org.example.lap5.Bai01" />
-        <item itemvalue="Application.org.example.lap4.Bai02" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
       </set>
     </attachedChunks>
   </component>
@@ -154,7 +159,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714545390110</updated>
-      <workItem from="1714545391152" duration="17997000" />
+      <workItem from="1714545391152" duration="18117000" />
+      <workItem from="1714747002312" duration="5144000" />
     </task>
     <task id="LOCAL-00001" summary="java core">
       <option name="closed" value="true" />
@@ -164,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714673193269</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="abstract class">
+      <option name="closed" value="true" />
+      <created>1714677308134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714677308134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +186,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java core" />
-    <option name="LAST_COMMIT_MESSAGE" value="java core" />
+    <MESSAGE value="abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract class" />
   </component>
 </project>
